@@ -34,9 +34,14 @@ The goal is to analyze how key global indicators like **GDP per capita**, **life
 - **Gapminder Dataset** – Global development indicators
 
 
+--- 
+
+
 ## Conclusion
 
 Higher GDP per capita is generally linked to longer life expectancy. Stable and prosperous countries tend to perform better in both health and economic metrics compared to those facing conflict or instability.
+
+---
 
 
 *Author:* Anchal Rani Barnowal 
